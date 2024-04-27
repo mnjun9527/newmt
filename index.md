@@ -5,7 +5,7 @@ layout: home
 hero:
   name: '迈途商贸有限公司'
   text: '产品资料站点'
-  tagline: 产品资料查询站点
+  tagline: 产品资料站点
   image:
     # src: /主页.svg
     # alt: 主页图片

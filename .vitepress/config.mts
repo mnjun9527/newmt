@@ -8,7 +8,7 @@ import timeline from 'vitepress-markdown-timeline';
 export default defineConfig({
   title: '迈途商贸有限公司',
   //这里可以不用改
-  description: '资料站点',
+  description: '产品资料站点',
   //服务器需要注释下面
   base: '/newmt/',
   //文档目录的路径 报错
