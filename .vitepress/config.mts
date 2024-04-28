@@ -72,6 +72,8 @@ export default defineConfig({
       '/德姆勒柜机空调/2匹': set_sidebar('/德姆勒柜机空调/2匹'),
       '/德姆勒柜机空调/3匹': set_sidebar('/德姆勒柜机空调/3匹'),
 
+      '/奥克斯电热毯/薄绒款': set_sidebar('/奥克斯电热毯/薄绒款'),
+
       '/开发测试/格式测试': set_sidebar('/开发测试/格式测试'),
     },
 

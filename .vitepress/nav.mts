@@ -189,8 +189,8 @@ export default [
         items: [
           {
             //下拉列表选项 对
-            text: 'HTML',
-            link: '/html/',
+            text: '薄绒款',
+            link: '/奥克斯电热毯/薄绒款/1.基础参数',
           },
           {
             text: 'CSS',
