@@ -101,16 +101,20 @@ export default [
         text: '容事达移动空调',
         items: [
           {
-            text: '阿里云',
-            link: '/aliyun/',
+            text: '小1匹',
+            link: '/荣事达移动空调/小1匹/1.基础参数',
           },
           {
-            text: '腾讯云',
-            link: '/tencent/',
+            text: '1匹',
+            link: '/荣事达移动空调/1匹/1.基础参数',
           },
           {
-            text: '华为云',
-            link: '/huawei/',
+            text: '1.5匹',
+            link: '/荣事达移动空调/1.5匹/1.单冷基础参数',
+          },
+          {
+            text: '2匹',
+            link: '/荣事达移动空调/2匹/1.单冷基础参数',
           },
         ],
       },
@@ -269,33 +273,29 @@ export default [
         items: [
           {
             //下拉列表选项 对
-            text: 'HTML',
-            link: '/html/',
+            text: '1匹',
+            link: '/德姆勒挂机空调/1匹/1.基础参数',
           },
           {
-            text: 'CSS',
-            link: '/css/',
+            text: '1.5匹',
+            link: '/德姆勒挂机空调/1.5匹/1.基础参数',
           },
           {
-            text: 'JavaScript',
-            link: '/js/',
+            text: '2匹',
+            link: '/德姆勒挂机空调/2匹/1.基础参数',
           },
         ],
       },
       {
-        text: '云服务',
+        text: '德姆勒柜机空调',
         items: [
           {
-            text: '阿里云',
-            link: '/aliyun/',
+            text: '2匹',
+            link: '德姆勒柜机空调/2匹/1.基础参数',
           },
           {
-            text: '腾讯云',
-            link: '/tencent/',
-          },
-          {
-            text: '华为云',
-            link: '/huawei/',
+            text: '3匹',
+            link: '德姆勒柜机空调/3匹/1.基础参数',
           },
         ],
       },
