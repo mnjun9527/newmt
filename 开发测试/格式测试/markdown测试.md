@@ -63,3 +63,20 @@ I think you should use an
 ~~this~~
 
 😝🌟🐫✨🚶
+<font title="red">红色小标签</font>
+<font style="background-color:#8bc34a">绿色小标签</font>
+<font title="blue">蓝色小标签</font>
+<font title="yellow">黄色小标签</font>
+<font title="gray">灰色小标签</font>
+
+<span alt="rainbow">彩虹变换字体特效</span>
+
+<span alt="modern">欢迎光临</span>
+
+<span alt="emp">着重号</span>
+
+<span alt="wavy">波浪线</span>
+
+<span alt="underline">下划线</span>
+
+其他：<span alt="hide">隐藏文本</span>
